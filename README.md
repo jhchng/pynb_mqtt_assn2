@@ -13,11 +13,11 @@ Follow these steps to set up the Jupyter Notebook:
 1. Open the **Command Prompt**.
 2. Run the following command to create a virtual environment:
     ```bash
-    python -m venv egc143
+    python -m venv ege356
     ```
-3. Navigate to the `egc143` folder:
+3. Navigate to the `ege356` folder:
     ```bash
-    cd egc143
+    cd ege356
     ```
 4. Activate the virtual environment by running:
     - On Windows:
@@ -33,11 +33,11 @@ Follow these steps to set up the Jupyter Notebook:
 
 1. Run the following command to clone the required repository:
     ```bash
-    git clone https://github.com/jhchng/pynb_userdefn1.git
+    git clone https://github.com/jhchng/pynb_mqtt_assn2.git
     ```
 2. Change to the project directory:
     ```bash
-    cd pynb_userdefn1
+    cd pynb_mqtt_assn2
     ```
 
 ### c) Install the Required Dependencies
@@ -51,7 +51,7 @@ Follow these steps to set up the Jupyter Notebook:
 
 1. Run the following command to launch the notebook:
     ```bash
-    jupyter notebook python_userdef_func.ipynb
+    jupyter notebook mqttpubsub.ipynb
     ```
 
 Jupyter Notebook should now be up and running and you should be able to access it.
