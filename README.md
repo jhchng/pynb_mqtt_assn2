@@ -15,7 +15,7 @@ Follow these steps to set up the Jupyter Notebook:
     ```bash
     python -m venv ege356assn2
     ```
-3. Navigate to the `ege356` folder:
+3. Navigate to the `ege356assn2` folder:
     ```bash
     cd ege356assn2
     ```
