@@ -1,5 +1,10 @@
 jupyter
 jupyter-book
+adafruit-io
+setuptools
+wheel
+keyboard
+paho-mqtt==1.6.1
 matplotlib
 numpy
 pandas
